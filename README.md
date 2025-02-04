@@ -1,1 +1,0 @@
-# jaghatarkonst.github.io
