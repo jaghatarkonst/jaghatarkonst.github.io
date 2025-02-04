@@ -30,17 +30,18 @@ color: #959aa1;
   
   p  {
 color: #959aa1;
-  font-family: arial;
+  font-family: Teko;
   text-shadow: 3px 3px 4px #000000;
+  line-height: 0.9;
   }
  
  a {
 color: #959aa1;
-  font-family: arial;
+  font-family: Teko;
   text-shadow: 3px 3px 4px #000000;
   }
  
- /* Create three equal columns that float next to each other */
+  /* Create three equal columns that float next to each other */
 .column {
   float: left;
   width: 33.33%;
@@ -79,9 +80,8 @@ div.gallery {
 }
 
 div.gallery:hover {
-transform: scale(1.2, 1.2);
-margin-bottom:15%;
-margin-top:15%;
+transform: scale(1.05, 1.05);
+
 }
 
 div.gallery img {
@@ -95,7 +95,7 @@ div.desc {
   text-align: center;
   color: #959aa1;
   text-shadow: 2px 2px 4px #000000;
-  font-family: arial;
+  font-family: Teko;
   font-size:1vw;
 }
 
